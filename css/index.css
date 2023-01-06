@@ -1,0 +1,30 @@
+h1 {
+    font-family: helvetica, arial, sans-serif;
+   }
+   
+nav {
+    height: 50px;
+    background-color: lightgray;
+   
+  }
+
+.inline-block {
+    padding: 15px;
+    display: inline-block;
+    background-color: darkgray;
+    width: 100px;
+    text-align: center;
+  }
+
+  .left {
+    width: 29%;
+    height: 60px;
+    background-color: lightblue;  
+
+  }
+
+  .right {
+    width: 70%;
+    height: 60px;
+    background-color: darkblue;
+  }
